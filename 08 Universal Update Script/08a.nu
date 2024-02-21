@@ -2,7 +2,7 @@
 # https://youtu.be/Bs8mUdab4lE?si=fwNUgNSGwSRWq2j3
 
 if (which pacman | not-empty) {
-  suco pacman -Syu
+  sudo pacman -Syu
   exit 0
 }
 
