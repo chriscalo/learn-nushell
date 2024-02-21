@@ -1,0 +1,18 @@
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+envio
+glasskube
+neosync
+sqlboiler
+==> New Casks
+acreom
+dnsmonitor
+dosbox-staging
+endless-sky-high-dpi
+fixkey
+==> Outdated Formulae
+n
+
+You have 1 outdated formula installed.
+You can upgrade it with brew upgrade
+or list it with brew outdated.
